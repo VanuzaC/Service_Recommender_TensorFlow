@@ -1,0 +1,13 @@
+service_id,service_name,category,price
+S001,Hair Treatment,Hair,55
+S002,Gel Manicure,Nails,40
+S003,Women's Haircut,Hair,35
+S004,Box Braids,Braids,90
+S005,Eyelash Extensions,Aesthetics,65
+S006,Wig Application,Wigs,45
+S007,Hair Coloring,Hair,70
+S008,Men's Haircut,Hair,25
+S009,Social Makeup,Makeup,60
+S010,Spa Pedicure,Nails,45
+S011,Wig Customization,Wigs,80
+S012,Facial Treatment,Aesthetics,75
